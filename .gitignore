@@ -1,6 +1,7 @@
 *.php
 *.icloud
 *.xml
+wp-content/uploads
 wp-content/cache/
 wp-content/upgrade/
 wp-content/ai1wm-backups
